@@ -1,0 +1,60 @@
+name: 補助金データの自動更新と公開
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 毎日 06:00 (JST)
+  workflow_dispatch:        # 手動実行ボタン
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # 取得したデータをリポジトリに書き戻すため
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 補助金データを取得
+        run: python fetch_data.py
+
+      - name: サイトを生成
+        run: python build_site.py
+
+      - name: データの差分をコミット
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "データ自動更新 $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,8 @@
+public/
+data/fetch.log
+__pycache__/
+*.pyc
+
+# JARVIS はローカル専用ツールなので公開しない
+jarvis/
+.claude/

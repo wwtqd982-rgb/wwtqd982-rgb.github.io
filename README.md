@@ -47,32 +47,48 @@ python -m http.server 8765 --bind 127.0.0.1 -d public
 ### 1. GitHubにアップする
 
 1. <https://github.com> で無料アカウントを作る
-2. 右上の「+」→「New repository」。名前は `subsidy-search` など。**Public** を選ぶ
-   （Publicだと GitHub Actions が無料無制限で使えます）
+2. 右上の「+」→「New repository」。**Public** を選ぶ
+   （Publicだと GitHub Actions と Pages が無料で使えます）
+
+> ⚠ **リポジトリ名は `<あなたのGitHub ID>.github.io` にしてください。**
+> 例: ID が `taro-example` なら `taro-example.github.io`。
+>
+> 生成されるHTMLのリンクは全て `/` 起点の絶対パスなので、**サイトはドメイン直下に
+> 置く必要があります。** `subsidy-search` のような普通の名前にすると
+> `https://taro-example.github.io/subsidy-search/` というサブディレクトリ配信になり、
+> **全ページのリンクが404になります。**
+> （`build_site.py` の `resolve_site_url()` がこの2種類を自動判別します）
+
 3. 手元のフォルダで、以下を順に実行
 
 ```bash
-git init && git branch -M main && git add . && git commit -m "初回"
+git init -b main && git add . && git commit -m "初回"
 ```
 
 ```bash
-git remote add origin https://github.com/あなたのID/subsidy-search.git && git push -u origin main
+git remote add origin https://github.com/あなたのID/あなたのID.github.io.git && git push -u origin main
 ```
+
+GitHub Desktop を使っている場合は、「Add existing repository」でこのフォルダを追加してから
+「Publish repository」を押すほうが簡単です（リポジトリ作成・認証・push が一度に済みます）。
 
 ### 2. GitHub Pages を有効にする
 
 リポジトリの **Settings → Pages → Build and deployment → Source** を
-**「GitHub Actions」** に変更する。これだけで `https://あなたのID.github.io/subsidy-search/` に公開されます。
+**「GitHub Actions」** に変更する。これだけで `https://あなたのID.github.io/` に公開されます。
 
-### 3. 公開URLを設定に反映する
+### 3. 運営者情報を入れる
 
-`build_site.py` の先頭にある設定を書き換えて、もう一度 push します。
+`SITE_URL` は GitHub Actions 上で自動判別されるので**書き換え不要**です。
+`build_site.py` の先頭にある次の2つだけを埋めて、もう一度 push します。
 
 ```python
-SITE_URL = "https://あなたのID.github.io/subsidy-search"
-OPERATOR = "あなたの名前（またはサイト運営名）"
+OPERATOR = "サイト運営名（ハンドルネームで可）"
 CONTACT  = "連絡用のメールアドレス"
 ```
+
+> 連絡先には**普段使いのメールアドレスを載せないでください。** 公開ページに書いたアドレスは
+> 収集ボットの対象になります。問い合わせ専用に無料のアドレスを1つ作るのが安全です。
 
 > **独自ドメインを推奨**：`◯◯.com` などを年1,000〜1,500円で取得して
 > Settings → Pages → Custom domain に設定すると、検索評価も広告審査も通りやすくなります。

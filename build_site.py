@@ -47,7 +47,7 @@ def resolve_site_url():
 
 SITE_URL = resolve_site_url()
 OPERATOR = "生活お助け編集部"
-CONTACT = "準備中"   # 問い合わせ用の専用アドレスを用意したら差し替える
+CONTACT = "seikatsu.otasuke.info@gmail.com"
 ADSENSE_CLIENT = ""   # 例: "ca-pub-1234567890123456"（審査通過後に設定）
 # ---------------------------------------------------------------------------
 

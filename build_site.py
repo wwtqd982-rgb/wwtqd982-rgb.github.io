@@ -49,6 +49,8 @@ SITE_URL = resolve_site_url()
 OPERATOR = "生活お助け編集部"
 CONTACT = "seikatsu.otasuke.info@gmail.com"
 ADSENSE_CLIENT = ""   # 例: "ca-pub-1234567890123456"（審査通過後に設定）
+# Google Search Console の所有権確認コード（meta タグの content の中身だけ）
+SEARCH_CONSOLE = "ro4wUTsllyBa3MrSEEpsgBdyanY5l48E9Y-BMC7U3eI"
 # ---------------------------------------------------------------------------
 
 SAFE_TAGS = {"p", "br", "strong", "b", "em", "i", "u", "ul", "ol", "li",
@@ -241,6 +243,10 @@ border-radius:8px;cursor:pointer;color:var(--ink)}
 def layout(title, desc, body, path, extra_head="", extra_body=""):
     canonical = SITE_URL.rstrip("/") + "/" + path.lstrip("/")
     canonical = canonical.replace("/index.html", "/")
+    verify = ""
+    if SEARCH_CONSOLE:
+        verify = ('<meta name="google-site-verification" content="%s">'
+                  % esc(SEARCH_CONSOLE)) + "\n"
     ads = ""
     if ADSENSE_CLIENT:
         ads = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/'
@@ -257,7 +263,7 @@ def layout(title, desc, body, path, extra_head="", extra_body=""):
 <meta property="og:description" content="%(desc)s">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="%(site)s">
-<style>%(css)s</style>
+%(verify)s<style>%(css)s</style>
 %(ads)s%(extra_head)s
 </head>
 <body>
@@ -285,7 +291,7 @@ def layout(title, desc, body, path, extra_head="", extra_body=""):
 </body>
 </html>""" % {
         "title": esc(title), "desc": esc(desc), "canonical": esc(canonical),
-        "site": esc(SITE_NAME), "css": CSS, "ads": ads,
+        "site": esc(SITE_NAME), "css": CSS, "ads": ads, "verify": verify,
         "extra_head": extra_head, "body": body, "extra_body": extra_body,
     }
 

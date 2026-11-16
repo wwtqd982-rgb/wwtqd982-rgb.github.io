@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:30:15+09:00",
+ "generated_at": "2026-11-16T09:32:11+09:00",
  "source": "Jグランツ（デジタル庁）",
  "source_url": "https://www.jgrants-portal.go.jp/",
  "count": 294,
@@ -593,26 +593,6 @@
    "institution_name": "観光関連事業者のDX・経営力強化支援事業補助金"
   },
   {
-   "id": "a0WJ200000CDeUgMAL",
-   "name": "S-00009792",
-   "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
-   "subsidy_catch_phrase": "難病指定医等が勤務する医療機関が行う臨床調査個人票のオンライン化に対応するために、必要な業務システムの改修及びその他環境整備を支援",
-   "detail": "<p><span style=\"color: rgb(0, 111, 173);\">【目的・概要】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;目的&gt;</span>現在国は、医療機関、自治体及び国で共通のデータベースを構築することで、</p><p class=\"ql-indent-1\">小児慢性特定疾病医療費助成及び難病医療費助成の診断書のオンライン</p><p class=\"ql-indent-1\">化を進めている。臨床調査個人票のオンライン化に対応するために必要な</p><p class=\"ql-indent-1\">業務システムの改修及びその他環境整備に係る経費について支援をすることで、</p><p class=\"ql-indent-1\">難病医療費助成事務の効率化を図る。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;対象経費&gt;</span>パソコンの購入経費、インターネット回線の敷設工事費等</p><p class=\"ql-indent-1\">          ※詳細については、「交付申請にあたっての留意事項」をお読みください。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;基準額及び補助率&gt;</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・基準額：１医療機関当たり10万円</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・補助率：2分の１</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※補助上限額は、１医療機関あたり5万円になります。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【応募資格】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・難病の患者に対する医療等に関する法律施行規則第15条第1項第1号に規定する、難病指定医及び同項第2 号に規定する協力難病指定医が勤務する、医療法（昭和23 年法律第205 号）第７条の規定に基づき許可を受けた病院及び診療所、並びに同法第８条の規定に基づき届出をした診療所であって、東京都知事が必要かつ適当であると認めるもの。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※過去に同補助金の交付を受けた場合は、対象外です。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※「東京都小児慢性特定疾病医療費意見書オンライン登録システム環境整備事業費補助金」との重複申請は認められません。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【問合せ先】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">東京都保健医療局保健政策部疾病対策課疾病対策担当</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">電話番号：03-5320-4471</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※問合わせの際は、下記「手続きの流れについて」「交付</span><span style=\"font-size: 14px;\">申請にあたっての留意事項」</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">　を必ずご確認いただきますようお願いいたします。</span></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(24, 24, 24); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【参照URL】</span></p><p><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/nanbyo/portal/shiteikikan/kikan-oshirase</span></p>",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助金の額は、別表に定める基準額と対象経費の実支出額から、寄付金その他の収 入額を控除した額を比較して少ない方の額を補助基本額とし、補助基本額に別表に定める 補助率を乗じて得た額とする。",
-   "subsidy_max_limit": 50000,
-   "acceptance_start_datetime": "2026-09-14T15:00:00.000Z",
-   "acceptance_end_datetime": "2026-11-15T14:59:00.000Z",
-   "project_end_deadline": "2027-05-30T15:00Z",
-   "request_reception_presence": "有",
-   "is_enable_multiple_request": true,
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL",
-   "institution_name": "東京都臨床調査個人票電子化等推進事業補助金"
-  },
-  {
    "id": "a0WJ200000CDeTtMAL",
    "name": "S-00009786",
    "title": "令和８年度東京都救命救急センター施設整備等補助事業（運営費）",
@@ -766,23 +746,6 @@
    "institution_name": "SDS電子化補助金事業"
   },
   {
-   "id": "a0WJ200000CDddbMAD",
-   "name": "S-00009551",
-   "title": "【福岡県宗像市】令和8年度 宗像市がんばる中小企業者応援補助金",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要 </strong></p><p><span style=\"font-size: 16px;\">市内商工業者の活性化を図り、宗像市の稼ぐ力を強化するため、新事業や販路開拓、生産性向上や人材不足・インバウンド観光客への対応のために市内事業者が行う事業活動に係る経費の一部を補助します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象者 </strong></p><p><span style=\"font-size: 16px;\">中小企業者又は特定非営利活動法人であって、以下の要件をすべて満たす者</span></p><p><span style=\"font-size: 16px;\">(1)宗像市内に事業所又は店舗を有し、市内で事業を行っていること</span></p><p><span style=\"font-size: 16px;\">(2)個人事業者については、市内居住者であること</span></p><p><span style=\"font-size: 16px;\">(3)事業を開始した日以後、1年を経過していること</span></p><p><span style=\"font-size: 16px;\">(4)市税等に滞納がないこと</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象事業</strong></p><p><span style=\"font-size: 16px;\">(1)新事業・販路開拓枠</span></p><p><span style=\"font-size: 16px;\">　(a)既存事業とは業種が異なる新事業への挑戦</span></p><p><span style=\"font-size: 16px;\">　(b)国内・海外への販路開拓</span></p><p><span style=\"font-size: 16px;\">　(c)宗像市外で開催される展示会等に出展する事業 等</span></p><p><span style=\"font-size: 16px;\">(2)生産性向上枠</span></p><p><span style=\"font-size: 16px;\">　(a)事業自動化（無人化）・省力化実現のための設備・デジタル技術の導入 等</span></p><p><span style=\"font-size: 16px;\">　(b)独立行政法人中小企業基盤整備機構が行う「中小企業省力化投資補助金」の補助の対象としてカタログに登録された製品の導入に係る事業</span></p><p><span style=\"font-size: 16px;\">(3)人への投資枠</span></p><p><span style=\"font-size: 16px;\">　(a)人材不足を解決するための事業</span></p><p><span style=\"font-size: 16px;\">　(b)インバウンド観光客の対応に係る事業 等</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助上限額 </strong></p><p><span style=\"font-size: 16px;\">50万円</span></p><p><span style=\"font-size: 16px;\">（新たに経営革新計画の承認を受け実施する事業は100万円）</span></p><p><span style=\"font-size: 16px;\">※事業継続力強化計画策定済事業者は限度額に追加で10万円上乗せ。</span></p><p><span style=\"font-size: 16px;\">※補助対象経費に消費税は含みません。</span></p><p><span style=\"font-size: 16px;\">※補助対象経費に1,000円未満の端数がある場合は、端数を切り捨てます。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助率</strong></p><p><span style=\"font-size: 16px;\">補助対象経費の2分の1以内</span></p><p><span style=\"font-size: 16px;\">（市内事業者へ発注した補助対象経費については3分の2以内）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■募集期間 </strong></p><p><span style=\"font-size: 16px;\">令和8年6月1日から令和8年12月25日まで</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■申請方法 </strong></p><p><span style=\"font-size: 16px;\">以下のいずれかの方法により提出してください。</span></p><p><span style=\"font-size: 16px;\">(1)メール</span></p><p><span style=\"font-size: 16px;\">宛先：sangyouseisaku@city.munakata.lg.jp</span></p><p><span style=\"font-size: 16px;\">宗像市産業政策課商工観光係</span></p><p><span style=\"font-size: 16px;\">(2)窓口</span></p><p><span style=\"font-size: 16px;\">宗像市産業政策課（北館2階）へ提出。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■お問合わせ先 </strong></p><p><span style=\"font-size: 16px;\">宗像市産業政策課商工観光係</span></p><p><span style=\"font-size: 16px;\">住所：〒811-3492 宗像市東郷1丁目1番1号（北館2階）</span></p><p><span style=\"font-size: 16px;\">電話番号：0940-36-0037</span></p><p><span style=\"font-size: 16px;\">E-mail : sangyouseisaku@city.munakata.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参考HP</strong></p><p><a href=\"https://www.city.munakata.lg.jp/kiji0034119/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193); font-size: 16px;\">https://www.city.munakata.lg.jp/kiji0034119/index.html</a></p><p><span style=\"font-size: 16px;\">※こちらのページでは申請受付は行なっておりません。詳細は「申請方法」をご確認ください。</span></p>",
-   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 人材育成を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-   "industry": "建設業 / 製造業 / サービス業（他に分類されないもの） / 運輸業、郵便業 / 卸売業、小売業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業",
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "300名以下",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-06-01T00:00:00.000Z",
-   "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
-   "request_reception_presence": "無",
-   "is_enable_multiple_request": false,
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD",
-   "institution_name": "宗像市がんばる中小企業者応援補助金"
-  },
-  {
    "id": "a0WJ200000CDddaMAD",
    "name": "S-00009550",
    "title": "【福岡県宗像市】令和8年度 宗像市創業応援補助金（“宗業”者応援補助金）",
@@ -798,6 +761,23 @@
    "is_enable_multiple_request": false,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddaMAD",
    "institution_name": "宗像市創業応援補助金（“宗業”者応援補助金）"
+  },
+  {
+   "id": "a0WJ200000CDddbMAD",
+   "name": "S-00009551",
+   "title": "【福岡県宗像市】令和8年度 宗像市がんばる中小企業者応援補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要 </strong></p><p><span style=\"font-size: 16px;\">市内商工業者の活性化を図り、宗像市の稼ぐ力を強化するため、新事業や販路開拓、生産性向上や人材不足・インバウンド観光客への対応のために市内事業者が行う事業活動に係る経費の一部を補助します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象者 </strong></p><p><span style=\"font-size: 16px;\">中小企業者又は特定非営利活動法人であって、以下の要件をすべて満たす者</span></p><p><span style=\"font-size: 16px;\">(1)宗像市内に事業所又は店舗を有し、市内で事業を行っていること</span></p><p><span style=\"font-size: 16px;\">(2)個人事業者については、市内居住者であること</span></p><p><span style=\"font-size: 16px;\">(3)事業を開始した日以後、1年を経過していること</span></p><p><span style=\"font-size: 16px;\">(4)市税等に滞納がないこと</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象事業</strong></p><p><span style=\"font-size: 16px;\">(1)新事業・販路開拓枠</span></p><p><span style=\"font-size: 16px;\">　(a)既存事業とは業種が異なる新事業への挑戦</span></p><p><span style=\"font-size: 16px;\">　(b)国内・海外への販路開拓</span></p><p><span style=\"font-size: 16px;\">　(c)宗像市外で開催される展示会等に出展する事業 等</span></p><p><span style=\"font-size: 16px;\">(2)生産性向上枠</span></p><p><span style=\"font-size: 16px;\">　(a)事業自動化（無人化）・省力化実現のための設備・デジタル技術の導入 等</span></p><p><span style=\"font-size: 16px;\">　(b)独立行政法人中小企業基盤整備機構が行う「中小企業省力化投資補助金」の補助の対象としてカタログに登録された製品の導入に係る事業</span></p><p><span style=\"font-size: 16px;\">(3)人への投資枠</span></p><p><span style=\"font-size: 16px;\">　(a)人材不足を解決するための事業</span></p><p><span style=\"font-size: 16px;\">　(b)インバウンド観光客の対応に係る事業 等</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助上限額 </strong></p><p><span style=\"font-size: 16px;\">50万円</span></p><p><span style=\"font-size: 16px;\">（新たに経営革新計画の承認を受け実施する事業は100万円）</span></p><p><span style=\"font-size: 16px;\">※事業継続力強化計画策定済事業者は限度額に追加で10万円上乗せ。</span></p><p><span style=\"font-size: 16px;\">※補助対象経費に消費税は含みません。</span></p><p><span style=\"font-size: 16px;\">※補助対象経費に1,000円未満の端数がある場合は、端数を切り捨てます。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助率</strong></p><p><span style=\"font-size: 16px;\">補助対象経費の2分の1以内</span></p><p><span style=\"font-size: 16px;\">（市内事業者へ発注した補助対象経費については3分の2以内）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■募集期間 </strong></p><p><span style=\"font-size: 16px;\">令和8年6月1日から令和8年12月25日まで</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■申請方法 </strong></p><p><span style=\"font-size: 16px;\">以下のいずれかの方法により提出してください。</span></p><p><span style=\"font-size: 16px;\">(1)メール</span></p><p><span style=\"font-size: 16px;\">宛先：sangyouseisaku@city.munakata.lg.jp</span></p><p><span style=\"font-size: 16px;\">宗像市産業政策課商工観光係</span></p><p><span style=\"font-size: 16px;\">(2)窓口</span></p><p><span style=\"font-size: 16px;\">宗像市産業政策課（北館2階）へ提出。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■お問合わせ先 </strong></p><p><span style=\"font-size: 16px;\">宗像市産業政策課商工観光係</span></p><p><span style=\"font-size: 16px;\">住所：〒811-3492 宗像市東郷1丁目1番1号（北館2階）</span></p><p><span style=\"font-size: 16px;\">電話番号：0940-36-0037</span></p><p><span style=\"font-size: 16px;\">E-mail : sangyouseisaku@city.munakata.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参考HP</strong></p><p><a href=\"https://www.city.munakata.lg.jp/kiji0034119/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193); font-size: 16px;\">https://www.city.munakata.lg.jp/kiji0034119/index.html</a></p><p><span style=\"font-size: 16px;\">※こちらのページでは申請受付は行なっておりません。詳細は「申請方法」をご確認ください。</span></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 人材育成を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+   "industry": "建設業 / 製造業 / サービス業（他に分類されないもの） / 運輸業、郵便業 / 卸売業、小売業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業",
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "300名以下",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-06-01T00:00:00.000Z",
+   "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
+   "request_reception_presence": "無",
+   "is_enable_multiple_request": false,
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD",
+   "institution_name": "宗像市がんばる中小企業者応援補助金"
   },
   {
    "id": "a0WJ200000CDddZMAT",
@@ -1514,24 +1494,6 @@
    "institution_name": "休廃止鉱山の鉱害防止に係るエネルギー使用合理化事業費補助金"
   },
   {
-   "id": "a0WJ200000CDYvXMAX",
-   "name": "S-00009147",
-   "title": "多摩市ふるさと納税を活用した資金調達支援事業補助金",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参照ホームページ</strong></p><p><span style=\"font-size: 16px;\">　Jグランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下HPをご確認ください。</span></p><p><span style=\"font-size: 16px;\">　</span><a href=\"https://www.city.tama.lg.jp/shisei/jigyosha/1012227/1012232/1014763.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193); font-size: 16px;\">https://www.city.tama.lg.jp/shisei/jigyosha/1012227/1012232/1014763.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">　市では、第6次多摩市総合計画において「つながり支え 認め合い いきいきとかがやけるまち」を将来都市像とし、多様な主体が互いに尊重・協力してまちづくりを推進しています。「多摩市ふるさと納税を活用した資金調達支援事業補助金」は、総合計画の理念に基づいて多摩市の産業振興及び地域課題の解決に資する事業を行う事業者を支援することを目的に実施するもので、クラウドファンディング型ふるさと納税の仕組みを活用して本市が寄附の受け入れ先となり、事業者の行う事業の経費の一部を補助する事業です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象者</strong></p><p><span style=\"font-size: 16px;\">　次に掲げる要件を全て満たす者とします。</span></p><p><span style=\"font-size: 16px;\">(1)クラウドファンディング型ふるさと納税による寄附募集の開始する時点において、市内に住所を有する個人事業主若しくは市内に事業所を有する法人であること。</span></p><p><span style=\"font-size: 16px;\">(2)市町村税を滞納していないこと。</span></p><p><span style=\"font-size: 16px;\">(3)法人にあっては多摩市暴力団排除条例（平成25年多摩市条例第14号）第2条第1号に規定する暴力団でないこと又はその代表者、役員若しくは使用人その他の従業員が同条第3号に規定する暴力団関係者でないこと、個人にあっては同号に規定する暴力団関係者でないこと。</span></p><p><span style=\"font-size: 16px;\">(4)宗教上の組織又は団体でないこと。</span></p><p><span style=\"font-size: 16px;\">(5)政治団体でないこと。</span></p><p><span style=\"font-size: 16px;\">(6)風俗営業等の規制及び業務の適正化等に関する法律（昭和23年法律122号）第2条第4項から第13項までに掲げる営業を行なうものでないこと。</span></p><p><span style=\"font-size: 16px;\">(7)同一年度に、この補助金の交付を受けていないこと。</span></p><p><span style=\"font-size: 16px;\">(8)補助金の交付の目的に照らして交付することが適当でないと市長が認める者でないこと。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象事業</strong></p><p><span style=\"font-size: 16px;\">　補助金の使途として社会通念上適当であると市長が認める事業で、多摩市の産業振興及び地域課題の解決に資する事業を対象とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助額</strong></p><p><span style=\"font-size: 16px;\">　予算の範囲内において、クラウドファンディング型ふるさと納税により集まった寄附金の合計額から、ふるさと納税のポータルサイトの運営事業者等に支払う手数料等を除いた額を補助金として交付します。</span></p><p><span style=\"font-size: 16px;\">　なお、寄附募集にあたり、補助対象経費の3分の2を上限として寄附目標額を市長が決定します。寄附募集開始後、寄附目標額に達した段階で寄附募集を終了します。（100円未満の端数がある場合は切り捨てとなります。）</span></p><p><br></p><p><span style=\"font-size: 16px;\">※最低保証額について</span></p><p><span style=\"font-size: 16px;\">市が規定する事業については集まった寄附金額が寄附目標額の3割に満たない場合、不足分を市が補助します。市が規定する事業とは、以下に該当する事業かつ補助対象事業が期限を設けて実施する事業でないものとします。事業計画書（第2号様式）への記載及び事前面談をもって、総合的に判断します。</span></p><p><span style=\"font-size: 16px;\">(1)創業：事業を営んでいない個人が、所得税法（昭和40年法律第33号）第229条の規定による開業等の届出をし、又は法人を設立し、市内において新たに事業を開始することをいう。</span></p><p><span style=\"font-size: 16px;\">(2)新市場進出：主たる業種又は主たる事業を変更することなく、新たな市場に進出することをいう。</span></p><p><span style=\"font-size: 16px;\">(3)事業転換：新たな製品を製造し又は新たな商品若しくはサービスを提供することにより、主たる業種を変更することなく、主たる事業を変更することをいう。</span></p><p><span style=\"font-size: 16px;\">(4)業種転換：新たな製品を製造し又は新たな商品若しくはサービスを提供することにより、主たる業種を変更することをいう。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■申請手続き</strong></p><p><span style=\"font-size: 16px;\">　補助金の申請の前に市の担当者及び創業・経営支援事業推進員による面談が必要です。事前面談後に次の書類を経済観光課に提出してください。窓口、郵送、メールいずれの方法でも申請が可能のほか、書類への押印は不要です。</span></p><p><span style=\"font-size: 16px;\">　なお、書類到達順に審査を行い、予算額に到達次第、受付は終了となります。審査後、市より交付（不交付）決定通知を送付します。</span></p><p><span style=\"font-size: 16px;\">(1)多摩市ふるさと納税を活用した資金調達支援事業補助金交付申請書（第1号様式）</span></p><p><span style=\"font-size: 16px;\">(2)事業計画書（第2号様式）</span></p><p><span style=\"font-size: 16px;\">(3)収支計算書（第3号様式）</span></p><p><span style=\"font-size: 16px;\">(4)誓約書兼同意書（第4号様式）</span></p><p><span style=\"font-size: 16px;\">(5)定款及び履歴事項全部証明書の写し（直近3か月以内のもの。法人又は団体に限る。）</span></p><p><span style=\"font-size: 16px;\">(6)直近1か年の決算書の写し（個人事業主の場合は、確定申告書の写し）</span></p><p><span style=\"font-size: 16px;\">(7)開業届の写し（創業間もない個人事業主で、前号の確定申告書の写しが提出できない者に限る。）</span></p><p><span style=\"font-size: 16px;\">(8)市町村税に滞納がないことを証明する書類（申請時点で多摩市において納税状況を確認できない者に限る。）</span></p><p><span style=\"font-size: 16px;\">(9)その他市長が必要と認める書類（事前面談時に確認）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">﻿■送付先・お問合わせ先</strong></p><p><span style=\"font-size: 16px;\">　多摩市役所 市民経済部 経済観光課 商工観光担当</span></p><p><span style=\"font-size: 16px;\">　住所：〒206-8666 東京都多摩市関戸6-12-1 第二庁舎2階</span></p><p><span style=\"font-size: 16px;\">　電話番号：042-338-6867</span></p><p><span style=\"font-size: 16px;\">　E-mail:tm155000@city.tama.tokyo.jp</span></p>",
-   "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_area_detail": "多摩市",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
-   "request_reception_presence": "無",
-   "is_enable_multiple_request": false,
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvXMAX",
-   "institution_name": "多摩市ふるさと納税を活用した資金調達支援事業補助金"
-  },
-  {
    "id": "a0WJ200000CDYvQMAX",
    "name": "S-00009140",
    "title": "令和8年度岸和田市「市内丸ごとラボ」実証事業推進補助金",
@@ -1551,6 +1513,24 @@
    "is_enable_multiple_request": true,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvQMAX",
    "institution_name": "岸和田市「市内丸ごとラボ」実証事業推進補助金"
+  },
+  {
+   "id": "a0WJ200000CDYvXMAX",
+   "name": "S-00009147",
+   "title": "多摩市ふるさと納税を活用した資金調達支援事業補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■参照ホームページ</strong></p><p><span style=\"font-size: 16px;\">　Jグランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下HPをご確認ください。</span></p><p><span style=\"font-size: 16px;\">　</span><a href=\"https://www.city.tama.lg.jp/shisei/jigyosha/1012227/1012232/1014763.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193); font-size: 16px;\">https://www.city.tama.lg.jp/shisei/jigyosha/1012227/1012232/1014763.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">　市では、第6次多摩市総合計画において「つながり支え 認め合い いきいきとかがやけるまち」を将来都市像とし、多様な主体が互いに尊重・協力してまちづくりを推進しています。「多摩市ふるさと納税を活用した資金調達支援事業補助金」は、総合計画の理念に基づいて多摩市の産業振興及び地域課題の解決に資する事業を行う事業者を支援することを目的に実施するもので、クラウドファンディング型ふるさと納税の仕組みを活用して本市が寄附の受け入れ先となり、事業者の行う事業の経費の一部を補助する事業です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象者</strong></p><p><span style=\"font-size: 16px;\">　次に掲げる要件を全て満たす者とします。</span></p><p><span style=\"font-size: 16px;\">(1)クラウドファンディング型ふるさと納税による寄附募集の開始する時点において、市内に住所を有する個人事業主若しくは市内に事業所を有する法人であること。</span></p><p><span style=\"font-size: 16px;\">(2)市町村税を滞納していないこと。</span></p><p><span style=\"font-size: 16px;\">(3)法人にあっては多摩市暴力団排除条例（平成25年多摩市条例第14号）第2条第1号に規定する暴力団でないこと又はその代表者、役員若しくは使用人その他の従業員が同条第3号に規定する暴力団関係者でないこと、個人にあっては同号に規定する暴力団関係者でないこと。</span></p><p><span style=\"font-size: 16px;\">(4)宗教上の組織又は団体でないこと。</span></p><p><span style=\"font-size: 16px;\">(5)政治団体でないこと。</span></p><p><span style=\"font-size: 16px;\">(6)風俗営業等の規制及び業務の適正化等に関する法律（昭和23年法律122号）第2条第4項から第13項までに掲げる営業を行なうものでないこと。</span></p><p><span style=\"font-size: 16px;\">(7)同一年度に、この補助金の交付を受けていないこと。</span></p><p><span style=\"font-size: 16px;\">(8)補助金の交付の目的に照らして交付することが適当でないと市長が認める者でないこと。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助対象事業</strong></p><p><span style=\"font-size: 16px;\">　補助金の使途として社会通念上適当であると市長が認める事業で、多摩市の産業振興及び地域課題の解決に資する事業を対象とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助額</strong></p><p><span style=\"font-size: 16px;\">　予算の範囲内において、クラウドファンディング型ふるさと納税により集まった寄附金の合計額から、ふるさと納税のポータルサイトの運営事業者等に支払う手数料等を除いた額を補助金として交付します。</span></p><p><span style=\"font-size: 16px;\">　なお、寄附募集にあたり、補助対象経費の3分の2を上限として寄附目標額を市長が決定します。寄附募集開始後、寄附目標額に達した段階で寄附募集を終了します。（100円未満の端数がある場合は切り捨てとなります。）</span></p><p><br></p><p><span style=\"font-size: 16px;\">※最低保証額について</span></p><p><span style=\"font-size: 16px;\">市が規定する事業については集まった寄附金額が寄附目標額の3割に満たない場合、不足分を市が補助します。市が規定する事業とは、以下に該当する事業かつ補助対象事業が期限を設けて実施する事業でないものとします。事業計画書（第2号様式）への記載及び事前面談をもって、総合的に判断します。</span></p><p><span style=\"font-size: 16px;\">(1)創業：事業を営んでいない個人が、所得税法（昭和40年法律第33号）第229条の規定による開業等の届出をし、又は法人を設立し、市内において新たに事業を開始することをいう。</span></p><p><span style=\"font-size: 16px;\">(2)新市場進出：主たる業種又は主たる事業を変更することなく、新たな市場に進出することをいう。</span></p><p><span style=\"font-size: 16px;\">(3)事業転換：新たな製品を製造し又は新たな商品若しくはサービスを提供することにより、主たる業種を変更することなく、主たる事業を変更することをいう。</span></p><p><span style=\"font-size: 16px;\">(4)業種転換：新たな製品を製造し又は新たな商品若しくはサービスを提供することにより、主たる業種を変更することをいう。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■申請手続き</strong></p><p><span style=\"font-size: 16px;\">　補助金の申請の前に市の担当者及び創業・経営支援事業推進員による面談が必要です。事前面談後に次の書類を経済観光課に提出してください。窓口、郵送、メールいずれの方法でも申請が可能のほか、書類への押印は不要です。</span></p><p><span style=\"font-size: 16px;\">　なお、書類到達順に審査を行い、予算額に到達次第、受付は終了となります。審査後、市より交付（不交付）決定通知を送付します。</span></p><p><span style=\"font-size: 16px;\">(1)多摩市ふるさと納税を活用した資金調達支援事業補助金交付申請書（第1号様式）</span></p><p><span style=\"font-size: 16px;\">(2)事業計画書（第2号様式）</span></p><p><span style=\"font-size: 16px;\">(3)収支計算書（第3号様式）</span></p><p><span style=\"font-size: 16px;\">(4)誓約書兼同意書（第4号様式）</span></p><p><span style=\"font-size: 16px;\">(5)定款及び履歴事項全部証明書の写し（直近3か月以内のもの。法人又は団体に限る。）</span></p><p><span style=\"font-size: 16px;\">(6)直近1か年の決算書の写し（個人事業主の場合は、確定申告書の写し）</span></p><p><span style=\"font-size: 16px;\">(7)開業届の写し（創業間もない個人事業主で、前号の確定申告書の写しが提出できない者に限る。）</span></p><p><span style=\"font-size: 16px;\">(8)市町村税に滞納がないことを証明する書類（申請時点で多摩市において納税状況を確認できない者に限る。）</span></p><p><span style=\"font-size: 16px;\">(9)その他市長が必要と認める書類（事前面談時に確認）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">﻿■送付先・お問合わせ先</strong></p><p><span style=\"font-size: 16px;\">　多摩市役所 市民経済部 経済観光課 商工観光担当</span></p><p><span style=\"font-size: 16px;\">　住所：〒206-8666 東京都多摩市関戸6-12-1 第二庁舎2階</span></p><p><span style=\"font-size: 16px;\">　電話番号：042-338-6867</span></p><p><span style=\"font-size: 16px;\">　E-mail:tm155000@city.tama.tokyo.jp</span></p>",
+   "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_area_detail": "多摩市",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+   "request_reception_presence": "無",
+   "is_enable_multiple_request": false,
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvXMAX",
+   "institution_name": "多摩市ふるさと納税を活用した資金調達支援事業補助金"
   },
   {
    "id": "a0WJ200000CDYvPMAX",
@@ -2972,6 +2952,25 @@
    "institution_name": "地上基幹放送等に関する耐災害性強化支援事業"
   },
   {
+   "id": "a0WJ200000CDXFhMAP",
+   "name": "S-00007956",
+   "title": "京都市企業立地促進制度補助金［本社・工場等新増設等支援制度］",
+   "subsidy_catch_phrase": "京都市内での本社・工場・開発拠点等の新増設を強力に支援！固定資産税・都市計画税相当額を最大1億円補助します。",
+   "detail": "<p><strong style=\"font-size: 12.8px;\">※J グランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下 HP をご確認ください。 資料中に明記がありません。</strong></p><p><a href=\"https://www.city.kyoto.lg.jp/sankan/page/0000310196.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.city.kyoto.lg.jp/sankan/page/0000310196.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">京都市における企業の立地を促進し、産業基盤の強化とともに雇用の場を確保し、産業の振興及び労働者の雇用の安定に寄与することを目的として、製造業、ソフトウェア業又は情報処理サービス業を営む企業が、市内で本社機能を有する事業所、工場、開発拠点、研究所の新増設等を行う場合に、固定資産税・都市計画税相当額等の補助金を交付します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">《補助対象者》補助対象者は、製造業、ソフトウェア業、又は情報処理サービス業を営む企業です。</span></p><p><span style=\"font-size: 12.8px;\">ただし、次のいずれかに該当する方は対象外となります。</span></p><ol><li><span style=\"font-size: 12.8px;\">京都市暴力団排除条例に規定する暴力団員等又は暴力団密接関係者</span></li><li><span style=\"font-size: 12.8px;\">性風俗関連特殊営業及びそれらに類似する業種を営む者</span></li><li><span style=\"font-size: 12.8px;\">営業に関して必要な認可等を取得していない者</span></li><li><span style=\"font-size: 12.8px;\">市町村税を滞納している者</span></li><li><span style=\"font-size: 12.8px;\">本市が補助金を交付するに当たり、社会的な信頼性及び公平性を損なうおそれがある者</span></li></ol><p><span style=\"font-size: 12.8px;\">《補助対象事業》</span></p><p><span style=\"font-size: 12.8px;\">市内において、本社機能を有する事業所、工場、開発拠点、又は研究所の新増設等（建物の建築、購入、賃借を含む）を行う事業を対象とします。</span></p><p><span style=\"font-size: 12.8px;\">主な要件は以下の通りです。</span></p><ol><li><span style=\"font-size: 12.8px;\">生産等設備取得額の合計が、中小企業者においては1,000万円以上、大企業においては2,500万円以上であること。</span></li><li><span style=\"font-size: 12.8px;\">対象事業所等の常時雇用者数が5名以上であること。</span></li><li>次のいずれかに該当すること。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ア.市内における常時雇用者の総数が申請の日から増加していること。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　イ.本社・工場等の新増設等に伴い生産性の向上に資する投資を行い、かつ、市内の常時雇用者を新たに１人以上雇用していること。</li></ol><p><strong style=\"color: rgb(0, 111, 173);\">■補助金上限額</strong></p><p><span style=\"font-size: 12.8px;\">固定資産税・都市計画税相当額の補助（ただし、土地に係るものを除く）</span></p><ul><li><span style=\"font-size: 12.8px;\">上限額：最大1億円</span></li><li><span style=\"font-size: 12.8px;\">補助率（中小企業者）：固定資産税・都市計画税相当額の100％</span></li><li><span style=\"font-size: 12.8px;\">補助率（大企業）：固定資産税・都市計画税相当額の50％</span></li></ul><p><span style=\"font-size: 12.8px;\">埋蔵文化財発掘調査費の補助</span></p><ul><li><span style=\"font-size: 12.8px;\">上限額：最大2,500万円</span></li><li><span style=\"font-size: 12.8px;\">補助率：埋蔵文化財発掘調査経費相当額の50％</span></li></ul><p><span style=\"font-size: 12.8px;\">※応募企業の企業区分に応じて、交付年数等の要件が異なります。詳細については、参照URLより、京都市HPの情報をご確認ください。</span></p><p><span style=\"font-size: 12.8px;\">※固定資産税・都市計画税相当額の補助の補助率については、特定地域の上乗せがあります。詳細については、参照URLより、京都市HPの情報をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請方法</strong></p><p><span style=\"font-size: 12.8px;\">本社・工場等の新増設等に着工する日の30日前までに、京都市企業立地促進制度補助金補助対象事業指定申請書を提出する必要があるため、申請の前に問合せ先に連絡してください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">京都市 産業観光局 企業誘致推進室</span></p><p><span style=\"font-size: 12.8px;\">電話：075-222-4239 FAX：075-222-3331</span></p><p><span style=\"font-size: 12.8px;\">メールアドレス：kigyoyc@city.kyoto.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">京都市HP（京都市企業立地促進制度補助金［本社・工場等新増設等支援制度］）</span></p><p><a href=\"https://www.city.kyoto.lg.jp/sankan/page/0000310196.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.city.kyoto.lg.jp/sankan/page/0000310196.html</a></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+   "industry": "製造業 / 情報通信業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "家屋及び償却資産（土地を除く）に課税される固定資産税・都市計画税相当額の100％～150%",
+   "subsidy_max_limit": 100000000,
+   "acceptance_start_datetime": "2025-03-31T15:00:00.000Z",
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "request_reception_presence": "無",
+   "is_enable_multiple_request": false,
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFhMAP",
+   "institution_name": "京都市企業立地促進制度"
+  },
+  {
    "id": "a0WJ200000CDXFgMAP",
    "name": "S-00007955",
    "title": "京都型グローバル・ニッチ・トップ企業育成補助金",
@@ -3025,25 +3024,6 @@
    "request_reception_presence": "無",
    "is_enable_multiple_request": false,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFiMAP",
-   "institution_name": "京都市企業立地促進制度"
-  },
-  {
-   "id": "a0WJ200000CDXFhMAP",
-   "name": "S-00007956",
-   "title": "京都市企業立地促進制度補助金［本社・工場等新増設等支援制度］",
-   "subsidy_catch_phrase": "京都市内での本社・工場・開発拠点等の新増設を強力に支援！固定資産税・都市計画税相当額を最大1億円補助します。",
-   "detail": "<p><strong style=\"font-size: 12.8px;\">※J グランツで本補助金の申請受付を行っておりません。申請手続き等の詳細については、以下 HP をご確認ください。 資料中に明記がありません。</strong></p><p><a href=\"https://www.city.kyoto.lg.jp/sankan/page/0000310196.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.city.kyoto.lg.jp/sankan/page/0000310196.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">京都市における企業の立地を促進し、産業基盤の強化とともに雇用の場を確保し、産業の振興及び労働者の雇用の安定に寄与することを目的として、製造業、ソフトウェア業又は情報処理サービス業を営む企業が、市内で本社機能を有する事業所、工場、開発拠点、研究所の新増設等を行う場合に、固定資産税・都市計画税相当額等の補助金を交付します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">《補助対象者》補助対象者は、製造業、ソフトウェア業、又は情報処理サービス業を営む企業です。</span></p><p><span style=\"font-size: 12.8px;\">ただし、次のいずれかに該当する方は対象外となります。</span></p><ol><li><span style=\"font-size: 12.8px;\">京都市暴力団排除条例に規定する暴力団員等又は暴力団密接関係者</span></li><li><span style=\"font-size: 12.8px;\">性風俗関連特殊営業及びそれらに類似する業種を営む者</span></li><li><span style=\"font-size: 12.8px;\">営業に関して必要な認可等を取得していない者</span></li><li><span style=\"font-size: 12.8px;\">市町村税を滞納している者</span></li><li><span style=\"font-size: 12.8px;\">本市が補助金を交付するに当たり、社会的な信頼性及び公平性を損なうおそれがある者</span></li></ol><p><span style=\"font-size: 12.8px;\">《補助対象事業》</span></p><p><span style=\"font-size: 12.8px;\">市内において、本社機能を有する事業所、工場、開発拠点、又は研究所の新増設等（建物の建築、購入、賃借を含む）を行う事業を対象とします。</span></p><p><span style=\"font-size: 12.8px;\">主な要件は以下の通りです。</span></p><ol><li><span style=\"font-size: 12.8px;\">生産等設備取得額の合計が、中小企業者においては1,000万円以上、大企業においては2,500万円以上であること。</span></li><li><span style=\"font-size: 12.8px;\">対象事業所等の常時雇用者数が5名以上であること。</span></li><li>次のいずれかに該当すること。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ア.市内における常時雇用者の総数が申請の日から増加していること。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　イ.本社・工場等の新増設等に伴い生産性の向上に資する投資を行い、かつ、市内の常時雇用者を新たに１人以上雇用していること。</li></ol><p><strong style=\"color: rgb(0, 111, 173);\">■補助金上限額</strong></p><p><span style=\"font-size: 12.8px;\">固定資産税・都市計画税相当額の補助（ただし、土地に係るものを除く）</span></p><ul><li><span style=\"font-size: 12.8px;\">上限額：最大1億円</span></li><li><span style=\"font-size: 12.8px;\">補助率（中小企業者）：固定資産税・都市計画税相当額の100％</span></li><li><span style=\"font-size: 12.8px;\">補助率（大企業）：固定資産税・都市計画税相当額の50％</span></li></ul><p><span style=\"font-size: 12.8px;\">埋蔵文化財発掘調査費の補助</span></p><ul><li><span style=\"font-size: 12.8px;\">上限額：最大2,500万円</span></li><li><span style=\"font-size: 12.8px;\">補助率：埋蔵文化財発掘調査経費相当額の50％</span></li></ul><p><span style=\"font-size: 12.8px;\">※応募企業の企業区分に応じて、交付年数等の要件が異なります。詳細については、参照URLより、京都市HPの情報をご確認ください。</span></p><p><span style=\"font-size: 12.8px;\">※固定資産税・都市計画税相当額の補助の補助率については、特定地域の上乗せがあります。詳細については、参照URLより、京都市HPの情報をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請方法</strong></p><p><span style=\"font-size: 12.8px;\">本社・工場等の新増設等に着工する日の30日前までに、京都市企業立地促進制度補助金補助対象事業指定申請書を提出する必要があるため、申請の前に問合せ先に連絡してください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">京都市 産業観光局 企業誘致推進室</span></p><p><span style=\"font-size: 12.8px;\">電話：075-222-4239 FAX：075-222-3331</span></p><p><span style=\"font-size: 12.8px;\">メールアドレス：kigyoyc@city.kyoto.lg.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">京都市HP（京都市企業立地促進制度補助金［本社・工場等新増設等支援制度］）</span></p><p><a href=\"https://www.city.kyoto.lg.jp/sankan/page/0000310196.html\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.city.kyoto.lg.jp/sankan/page/0000310196.html</a></p>",
-   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-   "industry": "製造業 / 情報通信業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "家屋及び償却資産（土地を除く）に課税される固定資産税・都市計画税相当額の100％～150%",
-   "subsidy_max_limit": 100000000,
-   "acceptance_start_datetime": "2025-03-31T15:00:00.000Z",
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "request_reception_presence": "無",
-   "is_enable_multiple_request": false,
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFhMAP",
    "institution_name": "京都市企業立地促進制度"
   },
   {
@@ -3145,6 +3125,26 @@
    "is_enable_multiple_request": true,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH",
    "institution_name": "令和７年度病院勤務者勤務環境改善事業"
+  },
+  {
+   "id": "a0WJ200000CDUheMAH",
+   "name": "S-00007197",
+   "title": "令和８年度訪問系介護サービス事業所に対する防犯機器等導入支援補助金",
+   "subsidy_catch_phrase": "※令和８年度の交付申請の受付は終了しました。",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要　</strong></p><p class=\"ql-indent-1\">介護サービス利用者の居宅を訪問し、排せつ及び食事等の介護並びに調理、洗濯及び掃除等の家事等を提供する者及び介護支援専門員等に対するハラスメント対策として、セキュリティ確保に必要な防犯機器の初度整備に係る経費に対し、補助します。</p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p class=\"ql-indent-1\">都内に所在する別表に定める事業所とする。ただし、国又は地方公共団体が設置する事業所（地方自治法（昭和２２年法律第６７号）第２４４条の２第３項の規定により指定管理者が管理するものを含む。）は除く。</p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都介護現場カスタマーハラスメント対策強化事業補助金事務局</p>",
+   "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "1/2",
+   "subsidy_max_limit": 100000,
+   "acceptance_start_datetime": "2026-08-30T15:00:00.000Z",
+   "acceptance_end_datetime": "2026-11-20T14:59:00.000Z",
+   "project_end_deadline": "2027-05-31T14:59Z",
+   "request_reception_presence": "有",
+   "is_enable_multiple_request": true,
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUheMAH",
+   "institution_name": "訪問系介護サービス事業所に対する防犯機器等導入支援補助金"
   },
   {
    "id": "a0WJ200000CDRArMAP",
@@ -3839,6 +3839,26 @@
    "institution_name": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業"
   },
   {
+   "id": "a0WfQ000003rcVFUAY",
+   "name": "S-00009995",
+   "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第3回】",
+   "subsidy_catch_phrase": "物価高騰などに創意工夫で強みを伸ばし、立ち向かう企業を応援",
+   "detail": "<p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">長期化する物価高騰や社会情勢の変化、近年続く賃上げなど、中小企業にとって課題が山積しています。このため、中小企業の創意工夫を活かして、既存事業を深化・発展させる計画を作成した場合に各種支援を展開することで、都内中小事業者の経営基盤を強化することを目的としています</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">。</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象者</strong></p><p><span style=\"font-size: 16px;\">申請要件を満たす東京都内で事業を行う中小企業者（個人事業主を含む）</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p><span style=\"font-size: 16px;\">既存事業を深化・発展させる計画を作成した場合に、審査で認められた経費</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p><span style=\"font-size: 16px;\">交付決定日から最大1年間</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\"> </span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p><span style=\"font-size: 16px;\">令和8年11月16日(月)9時　～　令和8年12月14日(月)16時</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■交付決定日</strong></p><p><span style=\"font-size: 16px;\">令和9年3月下旬予定</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px; color: rgb(68, 68, 68);\">東京都中小企業振興公社 </span></p><p><span style=\"font-size: 16px;\">経営力強化に向けた創意工夫チャレンジ促進事業事務局</span></p><p><span style=\"font-size: 16px;\">TEL：03-4405-0707</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</strong><span style=\"font-size: 16px; color: rgb(14, 15, 15);\">（申請書を以下よりダウンロードできます）</span></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 14px;\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html</a></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+   "target_area_detail": "東京都外での実施の場合は、東京都内に登記簿上の本店のある場合に限る",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象経費の4分の3以内（うち、小規模事業者は5分の4以内） ※賃金引上げ計画を達成できなかった場合、助成率は3分の2以内",
+   "subsidy_max_limit": 6000000,
+   "acceptance_start_datetime": "2026-11-16T00:00:00.000Z",
+   "acceptance_end_datetime": "2026-12-14T07:00:00.000Z",
+   "request_reception_presence": "有",
+   "is_enable_multiple_request": false,
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rcVFUAY",
+   "institution_name": "経営力強化に向けた創意工夫チャレンジ促進事業(賃上げ重点コース)"
+  },
+  {
    "id": "a0WfQ000003rLvpUAE",
    "name": "S-00009991",
    "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
@@ -3968,24 +3988,6 @@
    "request_reception_presence": "有",
    "is_enable_multiple_request": true,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6CMAT",
-   "name": "S-00009708",
-   "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">京都</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html#h2_free9\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html#h2_free9</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■Jグランツ申請マニュアル﻿</strong></p><p><a href=\"https://www.mhlw.go.jp/content/11200000/001734001.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">001734001.pdf</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■お問合せ先</strong></p><p><span style=\"color: rgb(24, 24, 24);\">業務改善助成金コールセンター</span></p><p><span style=\"color: rgb(24, 24, 24);\">０１２０－３６６－４４０（受付時間 平日 ９：００～１７：００）</span></p><p><br></p><p><span style=\"font-size: 10.5pt;\"> </span></p><p><span style=\"font-size: 10.5pt;\">※業務改善助成金はJグランツの「この補助金に問い合わせる」機能には対応しておりません。</span></p>",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "京都府",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-   "acceptance_end_datetime": "2026-11-15T14:59:00.000Z",
-   "request_reception_presence": "有",
-   "is_enable_multiple_request": true,
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT",
    "institution_name": "業務改善助成金"
   },
   {

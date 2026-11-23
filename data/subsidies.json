@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T09:46:36+09:00",
+ "generated_at": "2026-11-23T10:14:50+09:00",
  "source": "Jグランツ（デジタル庁）",
  "source_url": "https://www.jgrants-portal.go.jp/",
  "count": 294,
@@ -3750,7 +3750,7 @@
    "subsidy_max_limit": 150000000,
    "acceptance_start_datetime": "2022-09-15T09:00:00.000Z",
    "acceptance_end_datetime": "2032-12-31T14:59:00.000Z",
-   "project_end_deadline": "2027-12-31T14:59Z",
+   "project_end_deadline": "2032-12-31T14:59Z",
    "request_reception_presence": "有",
    "is_enable_multiple_request": true,
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC",
